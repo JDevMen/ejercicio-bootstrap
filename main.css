@@ -1,6 +1,7 @@
-.banner-footer {
+.banner {
   background-color: #5b493b;
   color: white;
+  height: 15vh;
 }
 
 .left-menu {
@@ -17,4 +18,14 @@
 
 .even-photo {
   background-color: #02a1b6;
+}
+
+.content {
+  padding: 13vh;
+}
+
+.footer {
+  background-color: #5b493b;
+  color: white;
+  height: 5vh;
 }
