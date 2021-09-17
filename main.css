@@ -1,7 +1,7 @@
 .banner {
   background-color: #5b493b;
   color: white;
-  height: 15vh;
+  height: 5rem;
 }
 
 .left-menu {
@@ -21,11 +21,11 @@
 }
 
 .content {
-  padding: 13vh;
+  padding: 5rem;
 }
 
 .footer {
   background-color: #5b493b;
   color: white;
-  height: 5vh;
+  height: 2.5rem;
 }
